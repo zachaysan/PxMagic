@@ -41,3 +41,5 @@ To run test suite
 1. Ignore tests/settings.py since most of the OAuth tests assume that
    you have access to the zachaysan account.
 2. ```python -m discover ```
+
+Please help
